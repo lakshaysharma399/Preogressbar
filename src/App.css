@@ -1,29 +1,15 @@
-.accodio-heading{
-    background-color: antiquewhite;
+.outter{
+
+    border: 1px solid black;
+    height: 15px;
+
 }
 
+.inner{
+    background-color: greenyellow;
+    height: 15px;
 
-.main-div{
-    width: 100vw;
-    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
-}
-
-.innerdiv{
-    width: 600px;
-    background-color: rgb(226, 225, 225);
-}
-
-.accordion-content{
-    padding: 15px;
-    
-   
-}
-
-.accodio-heading{
-   display: flex;
-   align-items: center;
-   padding: 15px;
 }
